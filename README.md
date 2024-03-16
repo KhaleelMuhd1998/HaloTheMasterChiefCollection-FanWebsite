@@ -3,7 +3,7 @@
 A simple website template made with basic HTML and CSS, as a part of my college project.<br>
 <br>
 
-# Copyright
+## Copyright
 This project contains third-party content with specific licenses. These content are here for demonstration puposes only. Please refer to licenses of the content prior to reusing.<br>
 <br>
 Halo © Microsoft Corporation. This project was created under Microsoft's "Game Content Usage Rules" using assets from Halo press kit, and it is not endorsed by or affiliated with Microsoft.<br>
