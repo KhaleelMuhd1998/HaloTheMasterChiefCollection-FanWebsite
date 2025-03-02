@@ -2,7 +2,7 @@
 
 A simple website template made with basic HTML and CSS, as a part of my college project.<br>
 <br>
-Preview the website here: https://khaleelmuhammad1998.github.io/HaloTheMasterChiefCollection-FanWebsite/
+Preview the website here: https://khaleelmuhd1998.github.io/HaloTheMasterChiefCollection-FanWebsite/
 
 ## Copyright
 This project contains third-party content with specific licenses. These content are here for demonstration puposes only. Please refer to licenses of the content prior to reusing.<br>
